@@ -6,3 +6,5 @@ hello git
 ????
 
 !!!!
+
+the first time i got local gitrepostory and web gitrepostory connected!
